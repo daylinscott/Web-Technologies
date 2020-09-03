@@ -1,7 +1,9 @@
 # Web-Technologies
 # Daylin Scott
-# Week 1 Homework
-I was a little bit confused about what a server was and what a client was when we talked about it on Zoom as a class, but i think I am beginning to get more of a feel for it after reading the information provided on the website. From what I gather, the server is sort of what happens "behind the scenes", it houses the information from databases that can be retrieved on the client side by typing into a search bar (such as said on the Moodle website) and provides general structure for web pages. The client side seems to be more about the user experience and connecting the user and the server in a way that is intuitive and user friendly. In my head I think of it sort of like the server holds the tools for whatever purpose a given website is meant to serve and the client side makes those tools accessible to people in an easy to understand/intuitive way. Essentially, the client side means that the action takes place on the user's computer and the server side means that the action takes place on a web server.
-
-If I am wrong on any of this or it needs clarification please let me know, I'm feeling a little bit like I might be getting in over my head by taking this class, but I really would like to learn and do my best.
-![Image of my syllabus quiz](syllabus_scott.png)
+# Week 2 Homework
+This week has been a little bit of a struggle for me, I managed my time poorly in the beginning of last week. I thought that since it was so easy to download Visual Studio
+onto my mac that downloading the rest of the programs would be the same as soon as I freed up the space on my computer for it. However, once I got into it I realized it was
+much more complicate than that. I downloaded docker after googling how to run software made for Windows on a mac computer, but ran into trouble when I had to typw things into the
+terminal in relation to docker. After zooming with you in the morning, we reconviened in the afternoon and you showed me virtual box, as a way to be able to run Windows 10 through
+my mac, and therefore, download the SQL microsoft programs. I am still having some trouble in figuring out how to run Windows 10 through Virtual box, but will keep trying tonight
+and hopefully have it figured out by class tomorrow.
