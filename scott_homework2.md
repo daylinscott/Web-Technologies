@@ -1,5 +1,6 @@
-#Downloading Experience
-##Daylin Scott
+# Web-Technologies
+# Daylin Scott
+# Week 2 Homework
 This week has been a little bit of a struggle for me, I managed my time poorly in the beginning of last week. I thought that since it was so easy to download Visual Studio
 onto my mac that downloading the rest of the programs would be the same as soon as I freed up the space on my computer for it. However, once I got into it I realized it was
 much more complicate than that. I downloaded docker after googling how to run software made for Windows on a mac computer, but ran into trouble when I had to typw things into the
