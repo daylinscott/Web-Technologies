@@ -1,0 +1,4 @@
+# Web-Technologies
+# Daylin Scott
+# Milestone1
+For my project in this class, I would ideally like to be able to combine the work that I am doing for my independent study, where I will be creating my own website using html, CSS, and javascript, to show case my creative work in graphic design and a few other medium. I am hoping in this class to be able to create sort of a database that would house all of my assets for this website. We talked today about a hypothetical website having a store and I think that is something that I would like to be able to incoporate into my own website; a section for selling prints of my film photography, and/or my graphic design work. Therefore I would also like to use this database to house this. Although I may not be able to completely finish this semester, I would at least like to get the ball rolling enough so that I am able to finish it on my own after graduation.
